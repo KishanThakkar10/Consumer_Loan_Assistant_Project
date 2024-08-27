@@ -39,9 +39,3 @@ The **Consumer Loan Assistant** is a Java-based GUI application that helps users
 
 ## Prerequisites
 - **Java Development Kit (JDK) 8 or higher**: Make sure you have the appropriate JDK installed to run the application.
-
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/consumer-loan-assistant.git
-   cd consumer-loan-assistant
